@@ -1,45 +1,45 @@
 [submodule "shared/gimx-adapter-protocol"]
 	path = shared/gimx-adapter-protocol
-	url = https://github.com/matlo/gimx-adapter-protocol.git
+	url = https://github.com/acopxl/gimx-adapter-protocol.git
 [submodule "shared/gimxpoll"]
 	path = shared/gimxpoll
-	url = https://github.com/matlo/gimxpoll.git
+	url = https://github.com/acopxl/gimxpoll.git
 [submodule "shared/gimxprio"]
 	path = shared/gimxprio
-	url = https://github.com/matlo/gimxprio.git
+	url = https://github.com/acopxl/gimxprio.git
 [submodule "shared/gimxusb"]
 	path = shared/gimxusb
-	url = https://github.com/matlo/gimxusb.git
+	url = https://github.com/acopxl/gimxusb.git
 [submodule "shared/gimxhid"]
 	path = shared/gimxhid
-	url = https://github.com/matlo/gimxhid.git
+	url = https://github.com/acopxl/gimxhid.git
 [submodule "shared/gimxinput"]
 	path = shared/gimxinput
-	url = https://github.com/matlo/gimxinput.git
+	url = https://github.com/acopxl/gimxinput.git
 [submodule "shared/gimxserial"]
 	path = shared/gimxserial
-	url = https://github.com/matlo/gimxserial.git
+	url = https://github.com/acopxl/gimxserial.git
 [submodule "shared/gimxtimer"]
 	path = shared/gimxtimer
-	url = https://github.com/matlo/gimxtimer.git
+	url = https://github.com/acopxl/gimxtimer.git
 [submodule "shared/gimxuhid"]
 	path = shared/gimxuhid
-	url = https://github.com/matlo/gimxuhid.git
+	url = https://github.com/acopxl/gimxuhid.git
 [submodule "shared/gimxcommon"]
 	path = shared/gimxcommon
-	url = https://github.com/matlo/gimxcommon.git
+	url = https://github.com/acopxl/gimxcommon.git
 [submodule "shared/gimx-network-protocol"]
 	path = shared/gimx-network-protocol
-	url = https://github.com/matlo/gimx-network-protocol.git
+	url = https://github.com/acopxl/gimx-network-protocol.git
 [submodule "shared/gimxlog"]
 	path = shared/gimxlog
-	url = https://github.com/matlo/gimxlog.git
+	url = https://github.com/acopxl/gimxlog.git
 [submodule "shared/gimxfile"]
 	path = shared/gimxfile
-	url = https://github.com/matlo/gimxfile.git
+	url = https://github.com/acopxl/gimxfile.git
 [submodule "shared/gimxtime"]
 	path = shared/gimxtime
-	url = https://github.com/matlo/gimxtime.git
+	url = https://github.com/acopxl/gimxtime.git
 [submodule "shared/gimxudp"]
 	path = shared/gimxudp
-	url = https://github.com/matlo/gimxudp.git
+	url = https://github.com/acopxl/gimxudp.git
